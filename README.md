@@ -1,1 +1,1 @@
-# kaggle_data
+Analýza kaggle dát pre účel školy
