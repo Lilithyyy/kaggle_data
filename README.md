@@ -1,4 +1,4 @@
-# Analýza kaggle dát pre účel školy
+# Analýza kaggle dát pre účel školy (Animal Kingdom (90): Masters of Survival)
 
 
 Je potrebné stihanuť si archiv z databázovej stránky (resp. súbor 'animals' z neho), pretože pre github je príliš veľký
