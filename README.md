@@ -6,3 +6,4 @@ vvv!! už nie je potrebné sťahovať nič, hlavný kód s potrebnými prvkami b
 
 # PRIDANE SÚBORY - LINK NA DISK S NOTEBOOKOM 
 https://drive.google.com/drive/folders/1wk0XNf8F2SaeuPzGO5-GSVTbLGh2TKdF?usp=sharing
+------> alebo zo suborov model_training.ipynb
